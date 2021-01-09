@@ -4,7 +4,7 @@ Progress steps with animation. Based on a tutorial project.
   Languages Used:
   <li> HTML </li>
   <li> CSS </li>
-  <li> Valilla JavaScript </li>
+  <li> JavaScript </li>
 
 
 </ul>
